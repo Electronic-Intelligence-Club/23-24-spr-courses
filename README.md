@@ -10,7 +10,7 @@ You can copy the course materials by the following steps:
 
 1. open your terminal (if you dont know where to find the terminal, please google it w.r.t your Operating System)
 
-2. paste the following codes and click the key <enter>:
+2. paste the following codes in the terminal and click the key 'Enter':
 
 ```
 git clone git@github.com:Electronic-Intelligence-Club/23-24-spr-courses.git
